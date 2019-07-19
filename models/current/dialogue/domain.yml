@@ -1,0 +1,241 @@
+%YAML 1.1
+---
+actions:
+- utter_AI
+- utter_AI_Benefits
+- utter_Aims
+- utter_Blockchain
+- utter_Bot
+- utter_Bot_Age
+- utter_Bot_Details
+- utter_Building_Chatbot
+- utter_Affirmation
+- utter_Deny
+- utter_Ok
+- utter_Bye
+- utter_Careers
+- utter_Chatbot
+- utter_Chatbot_Uses
+- utter_Choosing
+- utter_Company_Details
+- utter_Company_Help
+- utter_Contact
+- utter_Employees
+- utter_End
+- utter_Game_Changing
+- utter_Help
+- utter_Machine_Learning
+- utter_Meetings
+- utter_None
+- utter_Outsourcing
+- utter_Profits
+- utter_Research_And_Development
+- utter_Services
+- utter_Skills_For_Job
+- utter_Solutions
+- utter_Sorry
+- utter_Strengths
+- utter_Value_Additions
+- utter_Welcome
+- action_ai_benefits
+- action_ai_to_company
+- action_chatbot_uses
+- action_end
+- action_location
+- action_bye
+- action_meetings
+- action_services
+- action_welcome
+config:
+  store_entities_as_slots: true
+entities: []
+forms: []
+intents:
+- AI:
+    use_entities: true
+- AI_Benefits:
+    use_entities: true
+- AI_To_Company:
+    use_entities: true
+- Aims:
+    use_entities: true
+- Blockchain:
+    use_entities: true
+- Bot:
+    use_entities: true
+- Bot_Age:
+    use_entities: true
+- Bot_Details:
+    use_entities: true
+- Building_Chatbot:
+    use_entities: true
+- Bye:
+    use_entities: true
+- Careers:
+    use_entities: true
+- Chatbot:
+    use_entities: true
+- Chatbot_Uses:
+    use_entities: true
+- Choosing:
+    use_entities: true
+- Company_Details:
+    use_entities: true
+- Company_Help:
+    use_entities: true
+- Contact:
+    use_entities: true
+- Employees:
+    use_entities: true
+- End:
+    use_entities: true
+- Game_Changing:
+    use_entities: true
+- Greetings:
+    use_entities: true
+- Help:
+    use_entities: true
+- Location:
+    use_entities: true
+- Machine_Learning:
+    use_entities: true
+- Meetings:
+    use_entities: true
+- None:
+    use_entities: true
+- Outsourcing:
+    use_entities: true
+- Profits:
+    use_entities: true
+- Research_And_Development:
+    use_entities: true
+- Services:
+    use_entities: true
+- Skills_For_Job:
+    use_entities: true
+- Solutions:
+    use_entities: true
+- Sorry:
+    use_entities: true
+- Strengths:
+    use_entities: true
+- Value_Additions:
+    use_entities: true
+- Affirmation:
+    use_entities: true
+- Deny:
+    use_entities: true
+- Ok:
+    use_entities: true
+slots: {}
+templates:
+  utter_AI:
+  - text: The theory and development of computer systems able to perform tasks normally
+      requiring human intelligence like the ability of a digital computer or computer
+      - controlled robot to perform tasks commonly associated with human intelligence.Briefly,
+      AI is designing of machines that have the ability to think, it is the intelligence
+      of machines.
+  utter_AI_Benefits:
+  - text: Here are some benefits of AI
+  utter_Affirmation:
+  - text: you can ask me anything regarding to Robosensus
+  utter_Aims:
+  - text: Our aim is to make machines to perform the tasks which takes key role in
+      business growth across several industries.
+  utter_Blockchain:
+  - text: A blockchain is a digitized, decentralized, public ledger of all cryptocurrency
+      transactions, and here ledger is nothing but record of all transactions. Blockchain
+      keeps a record of all transactions, every verified transaction is added to the
+      ledger as a block. It utilizes a distributed system to verify each transaction
+  utter_Bot:
+  - text: 'yeah, I am good, What can I do for you ? '
+  utter_Bot_Age:
+  - text: I was created a few days back.
+  utter_Bot_Details:
+  - text: I am  Robosensus, the bot of Robosensus company.I am here to explain the
+      details about Robosensus.
+  utter_Building_Chatbot:
+  - text: Good, You are at right place. Please drop an email to contact@robosensus.com
+      with further details.
+  utter_Bye:
+  - text: Ok, Bye
+  utter_Careers:
+  - text: Forward your resume to contact@robosensus.com
+  utter_Chatbot:
+  - text: A chatbot is a computer program that attempts to simulate the conversation
+      with a human being via text or voice interactions.A user can ask a chatbot a
+      question or make a command, and the chatbot responds or performs the requested
+      action.
+  utter_Chatbot_Uses:
+  - text: Here are some uses of chatbot
+  utter_Choosing:
+  - text: We are dedicatedly working on several AI solutions and help you to grow
+      your business economically.
+  utter_Company_Details:
+  - text: We are here to bring Artificial Intelligence solutions to your business
+      like Chatbots, Facial recognition, building machine learning models and building
+      Argument reality solutions etc...
+  utter_Company_Help:
+  - text: We are dedicatedly working on several AI solutions and help you to grow
+      your business economically.
+  utter_Contact:
+  - text: ' you can drop an email contact@robosensus.com or call to this number 8340025535'
+  utter_Deny:
+  - text: okay, Thanks for knowing the information about  Robosensus
+  utter_Employees:
+  - text: Sorry, I can not tell you that at this moment
+  utter_End:
+  - text: you are welcome
+  utter_Game_Changing:
+  - text: New technology can create a game - changing shift in a market i.e, taking
+      a decision can change your business fate to either even better or even worse
+      than before.
+  utter_Help:
+  - text: Hi!Try asking me things about robosensus  like 'what is robosensus?' or
+      'what services are offering here?' or 'how can AI helps your business.
+  utter_Machine_Learning:
+  - text: Machine learning is an application of artificial intelligence(AI) that provides
+      systems the ability to automatically learn and improve from experience without
+      being explicitly programmed.Machine learning focuses on the development of computer
+      programs that can access data and use it learn for themselves
+  utter_Meetings:
+  - text: Yeah, I can schedule a meeting for you
+  utter_None:
+  - text: Sorry, I didn't understand.
+  utter_Ok:
+  - text: Do you want to ask me anything else?
+  utter_Outsourcing:
+  - text: Yes, We are happy to share our employees to build your AI empire.
+  utter_Profits:
+  - text: By using AI in your business you can save your time and by replacing the
+      human with machine, you can save your money. In this way you can increase your
+      profits
+  utter_Research_And_Development:
+  - text: Yes we will help to adopt and transform your business into  AI enabled.
+  utter_Services:
+  - text: Here are the few examples of our services
+  utter_Skills_For_Job:
+  - text: Python, C#, SQL server and Windows Azure knowledge
+  utter_Solutions:
+  - text: Chatbots, Voicebots, Facial recognization, Python and Machine learning models
+  utter_Sorry:
+  - text: It's ok, How can I help you ?
+  utter_Strengths:
+  - text: supportive management, sharp knowledged employees and working on highly
+      advanced technology are the strengths of Robosensus.
+  utter_Value_Additions:
+  - image: https://i.postimg.cc/5NV64XgV/Robosensus-Value-Aditions.png
+    text: Here is the value additions to client
+  utter_Welcome:
+  - buttons:
+    - payload: /Company_Details
+      title: About Robosensus
+    - payload: /Value_Additions
+      title: Value Additions
+    - payload: /Meetings
+      title: Schedule A Meeting
+    - payload: /Services
+      title: Services We Are Offering
+    - payload: /Building_Chatbot
+      title: I want to build a chatbot
+    text: You can ask me questions about below things

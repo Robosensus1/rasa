@@ -1,0 +1,38 @@
+<html>
+<body>
+<div id="webchat"/>
+<div id="webchat"/>
+<script src="https://storage.googleapis.com/mrbot-cdn/webchat-0.5.8.js"></script>
+<script>
+  WebChat.default.init({
+    selector: "#webchat",
+    initPayload: "/get_started",
+    interval: 1000, // 1000 ms between each message
+    customData: {"userId": "123"}, // arbitrary custom data. Stay minimal as this will be added to the socket
+    socketUrl: "http://localhost:5005",
+    socketPath: "/socket.io/",
+    title: "Robosensus",
+    subtitle: "Bot",
+    inputTextFieldHint: "Type a message...",
+    connectingText: "Waiting for server...",
+    hideWhenNotConnected: true,
+    fullScreenMode: false,
+    profileAvatar: "https://cdn.images.express.co.uk/img/dynamic/151/590x/Robot-uprising-wipe-out-humans-sir-martin-rees-787501.jpg",
+    openLauncherImage: 'myCustomOpenImage.png',
+    closeLauncherImage: 'myCustomCloseImage.png',
+    params: {
+      images: {
+        dims: {
+          width: 300,
+          height: 200,
+        }
+      },
+      storage: "local"
+    }
+  })
+</script>
+
+</body>
+</html>
+
+

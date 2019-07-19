@@ -1,0 +1,1261 @@
+{
+  "rasa_nlu_data": {
+    "common_examples": [
+      {
+        "intent": "AI",
+        "text": "what is ai?"
+      },
+      {
+        "intent": "AI",
+        "text": "give me brief explanation of ai?"
+      },
+      {
+        "intent": "AI",
+        "text": "explain about ai?"
+      },
+      {
+        "intent": "AI",
+        "text": "what is ai?"
+      },
+      {
+        "intent": "AI",
+        "text": "yes explain about ai?"
+      },
+      {
+        "intent": "AI",
+        "text": "yes, explain AI?"
+      },
+      {
+        "intent": "AI",
+        "text": "give me a detailed description of ai?"
+      },
+      {
+        "intent": "AI",
+        "text": "explain briefly about artificial intelligence?"
+      },
+      {
+        "intent": "AI",
+        "text": "what is artificial intelligence?"
+      },
+      {
+        "intent": "AI_Benefits",
+        "text": "what are the advantages of ai?"
+      },
+      {
+        "intent": "AI_Benefits",
+        "text": "what are the uses of ai?"
+      },
+      {
+        "intent": "AI_Benefits",
+        "text": "yes,what are the benefits of ai?"
+      },
+      {
+        "intent": "AI_Benefits",
+        "text": "yes, what are the advantages of ai?"
+      },
+      {
+        "intent": "AI_Benefits",
+        "text": "yes, what are the uses of ai?"
+      },
+      {
+        "intent": "AI_Benefits",
+        "text": "what are the benefits of ai?"
+      },
+      {
+        "intent": "AI_To_Company",
+        "text": "I want to introduce ai to my company"
+      },
+      {
+        "intent": "AI_To_Company",
+        "text": "how can I introduce ai to my company"
+      },
+      {
+        "intent": "AI_To_Company",
+        "text": "I want to increase my business using ai?how?"
+      },
+      {
+        "intent": "AI_To_Company",
+        "text": "how it is possible to increase my business using ai?"
+      },
+      {
+        "intent": "Aims",
+        "text": "what are the aims of this company?"
+      },
+      {
+        "intent": "Aims",
+        "text": "what are the goals of this company?"
+      },
+      {
+        "intent": "Aims",
+        "text": "what are the future plans of this company?"
+      },
+      {
+        "intent": "Aims",
+        "text": "what are the aims of robosensus?"
+      },
+      {
+        "intent": "Aims",
+        "text": "what are the goals of robosensus?"
+      },
+      {
+        "intent": "Aims",
+        "text": "what is the aim of the company?"
+      },
+      {
+        "intent": "Aims",
+        "text": "what is the goal of the company?"
+      },
+      {
+        "intent": "Aims",
+        "text": "what is the future plan of the company?"
+      },
+      {
+        "intent": "Aims",
+        "text": "what is the future vision of the company?"
+      },
+      {
+        "intent": "Aims",
+        "text": "explain about future vision of robosensus?"
+      },
+      {
+        "intent": "Aims",
+        "text": "explain about goals of robosensus?"
+      },
+      {
+        "intent": "Aims",
+        "text": "explain about aims of robosensus?"
+      },
+      {
+        "intent": "Aims",
+        "text": "explain about aims of this company?"
+      },
+      {
+        "intent": "Aims",
+        "text": "explain about future vision of this company?"
+      },
+      {
+        "intent": "Aims",
+        "text": "explain about goals of this company?"
+      },
+      {
+        "intent": "Aims",
+        "text": "what is your vision?"
+      },
+      {
+        "intent": "Aims",
+        "text": "what is your future vision?"
+      },
+      {
+        "intent": "Aims",
+        "text": "what are your aims?"
+      },
+      {
+        "intent": "Aims",
+        "text": "what aims you have?"
+      },
+      {
+        "intent": "Aims",
+        "text": "what are your goals?"
+      },
+      {
+        "intent": "Aims",
+        "text": "what goals you have?"
+      },
+      {
+        "intent": "Aims",
+        "text": "what are your future plans?"
+      },
+      {
+        "intent": "Aims",
+        "text": "what future plans you have?"
+      },
+      {
+        "intent": "Aims",
+        "text": "what future vision you have?"
+      },
+      {
+        "intent": "Blockchain",
+        "text": "what is blockchain?"
+      },
+      {
+        "intent": "Blockchain",
+        "text": "give me detailed description of blockchain?"
+      },
+      {
+        "intent": "Blockchain",
+        "text": "explain briefly about blockchain?"
+      },
+      {
+        "intent": "Blockchain",
+        "text": "what is blockchain?"
+      },
+      {
+        "intent": "Bot",
+        "text": "how are you?"
+      },
+      {
+        "intent": "Bot",
+        "text": "are you fine?"
+      },
+      {
+        "intent": "Bot",
+        "text": "are you ok?"
+      },
+      {
+        "intent": "Bot",
+        "text": "are you okay?"
+      },
+      {
+        "intent": "Bot",
+        "text": "how are you bot?"
+      },
+      {
+        "intent": "Bot",
+        "text": "are you fine bot?"
+      },
+      {
+        "intent": "Bot",
+        "text": "are you ok bot?"
+      },
+      {
+        "intent": "Bot_Age",
+        "text": "how old are you?"
+      },
+      {
+        "intent": "Bot_Age",
+        "text": "what is your age?"
+      },
+      {
+        "intent": "Bot_Age",
+        "text": "are you working from how many years?"
+      },
+      {
+        "intent": "Bot_Age",
+        "text": "how many years experience do you have?"
+      },
+      {
+        "intent": "Bot_Age",
+        "text": "what's your age?"
+      },
+      {
+        "intent": "Bot_Age",
+        "text": "what is your age?"
+      },
+      {
+        "intent": "Bot_Age",
+        "text": "what is your age bot?"
+      },
+      {
+        "intent": "Bot_Age",
+        "text": "what's your age bot?"
+      },
+      {
+        "intent": "Bot_Age",
+        "text": "how much experience do you have?"
+      },
+      {
+        "intent": "Bot_Details",
+        "text": "why are you here?"
+      },
+      {
+        "intent": "Bot_Details",
+        "text": "what is your responsibility?"
+      },
+      {
+        "intent": "Bot_Details",
+        "text": "who are you?"
+      },
+      {
+        "intent": "Bot_Details",
+        "text": "tell me about yourself?"
+      },
+      {
+        "intent": "Bot_Details",
+        "text": "what is your name?"
+      },
+      {
+        "intent": "Bot_Details",
+        "text": "tell me your details?"
+      },
+      {
+        "intent": "Building_Chatbot",
+        "text": "how to buils chatbot"
+      },
+      {
+        "intent": "Building_Chatbot",
+        "text": "I need a chatbot"
+      },
+      {
+        "intent": "Building_Chatbot",
+        "text": "how can I make chatbot"
+      },
+      {
+        "intent": "Building_Chatbot",
+        "text": "I need to build a chatbot"
+      },
+      {
+        "intent": "Building_Chatbot",
+        "text": "how can you help me to build a chatbot"
+      },
+      {
+        "intent": "Building_Chatbot",
+        "text": "how can i build a chatbot?"
+      },
+      {
+        "intent": "Building_Chatbot",
+        "text": "I want to build a chatbot"
+      },
+      {
+        "intent": "Bye",
+        "text": "bye bot"
+      },
+      {
+        "intent": "Bye",
+        "text": "ok bye"
+      },
+      {
+        "intent": "Bye",
+        "text": "bubye"
+      },
+      {
+        "intent": "Bye",
+        "text": "bubye bot"
+      },
+      {
+        "intent": "Bye",
+        "text": "see you"
+      },
+      {
+        "intent": "Bye",
+        "text": "bye bye"
+      },
+      {
+        "intent": "Bye",
+        "text": "bye"
+      },
+      {
+        "intent": "Careers",
+        "text": "how can I apply for a job in your company?"
+      },
+      {
+        "intent": "Careers",
+        "text": "how can I apply for a job in this company?"
+      },
+      {
+        "intent": "Careers",
+        "text": "how can I apply for a job in robosensus?"
+      },
+      {
+        "intent": "Careers",
+        "text": "I want to apply a job in this company?"
+      },
+      {
+        "intent": "Careers",
+        "text": "I want to apply a job in robosensus?"
+      },
+      {
+        "intent": "Careers",
+        "text": "I want to apply for a job in your company?"
+      },
+      {
+        "intent": "Careers",
+        "text": "I want to work in this company?"
+      },
+      {
+        "intent": "Chatbot",
+        "text": "give me brief description about chatbot?"
+      },
+      {
+        "intent": "Chatbot",
+        "text": "explain about chatbot?"
+      },
+      {
+        "intent": "Chatbot",
+        "text": "what is chatbot?"
+      },
+      {
+        "intent": "Chatbot_Uses",
+        "text": "what are the benefits of chatbot?"
+      },
+      {
+        "intent": "Chatbot_Uses",
+        "text": "what are the advantages of chatbot?"
+      },
+      {
+        "intent": "Chatbot_Uses",
+        "text": "what are the uses of chatbot?"
+      },
+      {
+        "intent": "Chatbot_Uses",
+        "text": "why chatbot is needed?"
+      },
+      {
+        "intent": "Choosing",
+        "text": "why should I choose robosensus?"
+      },
+      {
+        "intent": "Choosing",
+        "text": "why don't I choose other companies than Robosensus?"
+      },
+      {
+        "intent": "Choosing",
+        "text": "why should I choose this company?"
+      },
+      {
+        "intent": "Choosing",
+        "text": "why don't i choose other companies than this company?"
+      },
+      {
+        "intent": "Choosing",
+        "text": "why should I choose you?"
+      },
+      {
+        "intent": "Choosing",
+        "text": "why don't I choose other companies than you?"
+      },
+      {
+        "intent": "Choosing",
+        "text": "about robosensus"
+      },
+      {
+        "intent": "Choosing",
+        "text": "I want to know about Robosensus"
+      },
+      {
+        "intent": "Choosing",
+        "text": "give me brief description about Robosensus"
+      },
+      {
+        "intent": "Choosing",
+        "text": "what is Robosensus?"
+      },
+      {
+        "intent": "Choosing",
+        "text": "I want to know about this company?"
+      },
+      {
+        "intent": "Choosing",
+        "text": "what is this company about?"
+      },
+      {
+        "intent": "Choosing",
+        "text": "give me brief description about this company"
+      },
+      {
+        "intent": "Choosing",
+        "text": "give me brief description about the company"
+      },
+      {
+        "intent": "Choosing",
+        "text": "which company it is?"
+      },
+      {
+        "intent": "Choosing",
+        "text": "what type of company it is?"
+      },
+      {
+        "intent": "Choosing",
+        "text": "what is robosensus about?"
+      },
+      {
+        "intent": "Company_Help",
+        "text": "how can you help me my future become mine now?"
+      },
+      {
+        "intent": "Company_Help",
+        "text": "how can you help me?"
+      },
+      {
+        "intent": "Company_Help",
+        "text": "how can robosensus helps me?"
+      },
+      {
+        "intent": "Company_Help",
+        "text": "how can this company helps me?"
+      },
+      {
+        "intent": "Company_Help",
+        "text": "how can your company helps me?"
+      },
+      {
+        "intent": "Contact",
+        "text": "I want to contact you"
+      },
+      {
+        "intent": "Contact",
+        "text": "I need to contact you"
+      },
+      {
+        "intent": "Contact",
+        "text": "to whom I need to contact?"
+      },
+      {
+        "intent": "Contact",
+        "text": "how can I contact you?"
+      },
+      {
+        "intent": "Contact",
+        "text": "can I get contact number?"
+      },
+      {
+        "intent": "Contact",
+        "text": "can you give me contact number?"
+      },
+      {
+        "intent": "Contact",
+        "text": "can i get email for contact?"
+      },
+      {
+        "intent": "Contact",
+        "text": "can you give me email for contact"
+      },
+      {
+        "intent": "Contact",
+        "text": "contact number?"
+      },
+      {
+        "intent": "Contact",
+        "text": "can I get email or contact number"
+      },
+      {
+        "intent": "Employees",
+        "text": "how many employees are there?"
+      },
+      {
+        "intent": "Employees",
+        "text": "how many number of employees are there?"
+      },
+      {
+        "intent": "Employees",
+        "text": "how many number of employees are working in robosensus?"
+      },
+      {
+        "intent": "Employees",
+        "text": "how many number of employees are working in this company?"
+      },
+      {
+        "intent": "Employees",
+        "text": "how many employees are currently working in robosensus"
+      },
+      {
+        "intent": "Employees",
+        "text": "how many number of employess in robosensus?"
+      },
+      {
+        "intent": "Employees",
+        "text": "how many employees are working in this company?"
+      },
+      {
+        "intent": "Employees",
+        "text": "how many employees you have?"
+      },
+      {
+        "intent": "End",
+        "text": "thanks"
+      },
+      {
+        "intent": "End",
+        "text": "thanks you so much"
+      },
+      {
+        "intent": "End",
+        "text": "thank you very much"
+      },
+      {
+        "intent": "End",
+        "text": "thanks a lot"
+      },
+      {
+        "intent": "End",
+        "text": "thank you"
+      },
+      {
+        "intent": "Game_Changing",
+        "text": "explain about game changing"
+      },
+      {
+        "intent": "Game_Changing",
+        "text": "give me brief description about game changing"
+      },
+      {
+        "intent": "Game_Changing",
+        "text": "what is game changing?"
+      },
+      {
+        "intent": "Greetings",
+        "text": "hello"
+      },
+      {
+        "intent": "Greetings",
+        "text": "hi"
+      },
+      {
+        "intent": "Greetings",
+        "text": "hii"
+      },
+      {
+        "intent": "Greetings",
+        "text": "good evening"
+      },
+      {
+        "intent": "Greetings",
+        "text": "gud evng"
+      },
+      {
+        "intent": "Greetings",
+        "text": "good afternoon"
+      },
+      {
+        "intent": "Greetings",
+        "text": "gud aftrnn"
+      },
+      {
+        "intent": "Greetings",
+        "text": "good morning"
+      },
+      {
+        "intent": "Greetings",
+        "text": "gud mrng"
+      },
+      {
+        "intent": "Greetings",
+        "text": "hey"
+      },
+      {
+        "intent": "Greetings",
+        "text": "hi bot"
+      },
+      {
+        "intent": "Greetings",
+        "text": "hello bot"
+      },
+      {
+        "intent": "Help",
+        "text": "please help me"
+      },
+      {
+        "intent": "Help",
+        "text": "help"
+      },
+      {
+        "intent": "Help",
+        "text": "help me"
+      },
+      {
+        "intent": "Help",
+        "text": "need help"
+      },
+      {
+        "intent": "Help",
+        "text": "can't understand, please help"
+      },
+      {
+        "intent": "Help",
+        "text": "can you please help me?"
+      },
+      {
+        "intent": "Location",
+        "text": "where is your company located?"
+      },
+      {
+        "intent": "Location",
+        "text": "where is robosensus located?"
+      },
+      {
+        "intent": "Location",
+        "text": "in which area it is located?"
+      },
+      {
+        "intent": "Location",
+        "text": "in which area robosensus is located?"
+      },
+      {
+        "intent": "Location",
+        "text": "where is the location of your company?"
+      },
+      {
+        "intent": "Location",
+        "text": "where is the location of Roosensus?"
+      },
+      {
+        "intent": "Location",
+        "text": "where is the location of this company?"
+      },
+      {
+        "intent": "Location",
+        "text": "where is this company located?"
+      },
+      {
+        "intent": "Location",
+        "text": "where are you?"
+      },
+      {
+        "intent": "Location",
+        "text": "what is your address?"
+      },
+      {
+        "intent": "Location",
+        "text": "what is your official address?"
+      },
+      {
+        "intent": "Location",
+        "text": "what is your physical address?"
+      },
+      {
+        "intent": "Location",
+        "text": "what is your office address?"
+      },
+      {
+        "intent": "Machine_Learning",
+        "text": "give me detailed description of machine learning"
+      },
+      {
+        "intent": "Machine_Learning",
+        "text": "explain about machine learning"
+      },
+      {
+        "intent": "Machine_Learning",
+        "text": "give me detailed description about machine learning"
+      },
+      {
+        "intent": "Machine_Learning",
+        "text": "what is machine learnong?"
+      },
+      {
+        "intent": "Machine_Learning",
+        "text": "give me detailed explanation of machine learning?"
+      },
+      {
+        "intent": "Machine_Learning",
+        "text": "give me detailed explantion of machine learning?"
+      },
+      {
+        "intent": "Meetings",
+        "text": "I want to schedule a meeting"
+      },
+      {
+        "intent": "Meetings",
+        "text": "I want to schedule a demo"
+      },
+      {
+        "intent": "Meetings",
+        "text": "I want a meeting with you"
+      },
+      {
+        "intent": "Meetings",
+        "text": "I want an appointment for a meeting"
+      },
+      {
+        "intent": "Meetings",
+        "text": "when can I meet?"
+      },
+      {
+        "intent": "Meetings",
+        "text": "can I get an appointment?"
+      },
+      {
+        "intent": "Meetings",
+        "text": "whom can I meet?"
+      },
+      {
+        "intent": "None",
+        "text": "order me a pizza"
+      },
+      {
+        "intent": "None",
+        "text": "book me a flight"
+      },
+      {
+        "intent": "None",
+        "text": "book me a train ticket"
+      },
+      {
+        "intent": "None",
+        "text": "book me a hotel room"
+      },
+      {
+        "intent": "None",
+        "text": "find restaurant near me"
+      },
+      {
+        "intent": "None",
+        "text": "find malls near me"
+      },
+      {
+        "intent": "None",
+        "text": "Where is atm near me?"
+      },
+      {
+        "intent": "None",
+        "text": "how is weather outside"
+      },
+      {
+        "intent": "None",
+        "text": "how to reduce anger"
+      },
+      {
+        "intent": "None",
+        "text": "what is temperature now?"
+      },
+      {
+        "intent": "None",
+        "text": "what day is today?"
+      },
+      {
+        "intent": "None",
+        "text": "explain about bankloan"
+      },
+      {
+        "intent": "None",
+        "text": "book me a movie ticket"
+      },
+      {
+        "intent": "None",
+        "text": "book me a bus ticket"
+      },
+      {
+        "intent": "None",
+        "text": "book me a train ticket"
+      },
+      {
+        "intent": "None",
+        "text": "I am tired of you"
+      },
+      {
+        "intent": "None",
+        "text": "do you play games?"
+      },
+      {
+        "intent": "None",
+        "text": "who is your boss?"
+      },
+      {
+        "intent": "None",
+        "text": "can you fly?"
+      },
+      {
+        "intent": "None",
+        "text": "cook me something"
+      },
+      {
+        "intent": "Outsourcing",
+        "text": "is this company provides outsourcing?"
+      },
+      {
+        "intent": "Outsourcing",
+        "text": "is robosensus provides outsourcing"
+      },
+      {
+        "intent": "Outsourcing",
+        "text": "can I get outsourcing here?"
+      },
+      {
+        "intent": "Outsourcing",
+        "text": "is outsourcing available here?"
+      },
+      {
+        "intent": "Outsourcing",
+        "text": "are you providing outsourcing?"
+      },
+      {
+        "intent": "Outsourcing",
+        "text": "can you provide outsourcing?"
+      },
+      {
+        "intent": "Profits",
+        "text": "how can I improve my business productivity?"
+      },
+      {
+        "intent": "Profits",
+        "text": "I want to improve my business productivity"
+      },
+      {
+        "intent": "Profits",
+        "text": "I want to improve my company profits"
+      },
+      {
+        "intent": "Profits",
+        "text": "how can I improve my company profits?"
+      },
+      {
+        "intent": "Research_And_Development",
+        "text": "can you do research and development with me"
+      },
+      {
+        "intent": "Research_And_Development",
+        "text": "can I find reserach and development with me here?"
+      },
+      {
+        "intent": "Research_And_Development",
+        "text": "can robosensus do research and development with me?"
+      },
+      {
+        "intent": "Research_And_Development",
+        "text": "Is robosensus do reserch and development?"
+      },
+      {
+        "intent": "Research_And_Development",
+        "text": "this company will do research and development?"
+      },
+      {
+        "intent": "Services",
+        "text": "what are the services are offering here"
+      },
+      {
+        "intent": "Services",
+        "text": "what are the services offering in robosensus"
+      },
+      {
+        "intent": "Services",
+        "text": "what are the services offering in this company"
+      },
+      {
+        "intent": "Services",
+        "text": "what are the services will offer in this company?"
+      },
+      {
+        "intent": "Services",
+        "text": "what are the services will offer by this company?"
+      },
+      {
+        "intent": "Services",
+        "text": "what are the services will offer in robosensus?"
+      },
+      {
+        "intent": "Services",
+        "text": "what robosensus can do?"
+      },
+      {
+        "intent": "Services",
+        "text": "what are the services will offer by robosensus?"
+      },
+      {
+        "intent": "Services",
+        "text": "what will this company do?"
+      },
+      {
+        "intent": "Services",
+        "text": "what is robosensus can do?"
+      },
+      {
+        "intent": "Services",
+        "text": "what you can do?"
+      },
+      {
+        "intent": "Services",
+        "text": "what can you do?"
+      },
+      {
+        "intent": "Services",
+        "text": "what robosensus can do?"
+      },
+      {
+        "intent": "Skills_For_Job",
+        "text": "which technologies do we learn for a job here?"
+      },
+      {
+        "intent": "Skills_For_Job",
+        "text": "what are the technologies do we learn for applying a job here"
+      },
+      {
+        "intent": "Skills_For_Job",
+        "text": "what are the skills need for applying a job in robosensus?"
+      },
+      {
+        "intent": "Skills_For_Job",
+        "text": "what are the skills need for applying a job in your company?"
+      },
+      {
+        "intent": "Skills_For_Job",
+        "text": "what are the basic skills need for applying a job here?"
+      },
+      {
+        "intent": "Skills_For_Job",
+        "text": "what are the basic skills need to apply a job here?"
+      },
+      {
+        "intent": "Skills_For_Job",
+        "text": "what are the technologies need for a job here?"
+      },
+      {
+        "intent": "Skills_For_Job",
+        "text": "which technologies need for apply a job here?"
+      },
+      {
+        "intent": "Skills_For_Job",
+        "text": "what are the skills need for a job here?"
+      },
+      {
+        "intent": "Skills_For_Job",
+        "text": "what are the basic skills need for a job here?"
+      },
+      {
+        "intent": "Skills_For_Job",
+        "text": "what are the technologies need to apply a job here?"
+      },
+      {
+        "intent": "Skills_For_Job",
+        "text": "what are the technologies needed?"
+      },
+      {
+        "intent": "Skills_For_Job",
+        "text": "what are the technologies require?"
+      },
+      {
+        "intent": "Skills_For_Job",
+        "text": "which technologies require?"
+      },
+      {
+        "intent": "Skills_For_Job",
+        "text": "what are the technologies need?"
+      },
+      {
+        "intent": "Skills_For_Job",
+        "text": "what are the technologies you are expectiong to learn?"
+      },
+      {
+        "intent": "Solutions",
+        "text": "what solutions this company covers?"
+      },
+      {
+        "intent": "Solutions",
+        "text": "what are the solutions covered by this company?"
+      },
+      {
+        "intent": "Solutions",
+        "text": "what are the solutions covered by robosensus?"
+      },
+      {
+        "intent": "Solutions",
+        "text": "what are the solutions covered by your company?"
+      },
+      {
+        "intent": "Solutions",
+        "text": "what solutions your company covers?"
+      },
+      {
+        "intent": "Solutions",
+        "text": "what solutions you cover?"
+      },
+      {
+        "intent": "Sorry",
+        "text": "hey bot sorry"
+      },
+      {
+        "intent": "Sorry",
+        "text": "sorry"
+      },
+      {
+        "intent": "Sorry",
+        "text": "sorry bot"
+      },
+      {
+        "intent": "Sorry",
+        "text": "sorry sorry"
+      },
+      {
+        "intent": "Strengths",
+        "text": "what are the strengths of the company?"
+      },
+      {
+        "intent": "Strengths",
+        "text": "what is the strength of the company?"
+      },
+      {
+        "intent": "Strengths",
+        "text": "what are the skills of the caompny?"
+      },
+      {
+        "intent": "Strengths",
+        "text": "what are the assets of the company?"
+      },
+      {
+        "intent": "Strengths",
+        "text": "what is the core area of the company?"
+      },
+      {
+        "intent": "Strengths",
+        "text": "what is the strength of your company?"
+      },
+      {
+        "intent": "Strengths",
+        "text": "what are the stengths of your company?"
+      },
+      {
+        "intent": "Strengths",
+        "text": "what are the skills of your company?"
+      },
+      {
+        "intent": "Strengths",
+        "text": "what are the strengths of robosensus?"
+      },
+      {
+        "intent": "Strengths",
+        "text": "what is the strength of this company?"
+      },
+      {
+        "intent": "Strengths",
+        "text": "what is the strength of robosensus?"
+      },
+      {
+        "intent": "Strengths",
+        "text": "what strengths you have?"
+      },
+      {
+        "intent": "Strengths",
+        "text": "what are your strengths?"
+      },
+      {
+        "intent": "Strengths",
+        "text": "what is your strength?"
+      },
+      {
+        "intent": "Value_Additions",
+        "text": "what are the value additions to client?"
+      },
+      {
+        "intent": "Value_Additions",
+        "text": "what value additions can robosensus offer?"
+      },
+      {
+        "intent": "Value_Additions",
+        "text": "what value additions can robosensus offer to client?"
+      },
+      {
+        "intent": "Value_Additions",
+        "text": "what value additions will robosensus offer?"
+      },
+      {
+        "intent": "Value_Additions",
+        "text": "what value additions will robosensus offer to client?"
+      },
+      {
+        "intent": "Value_Additions",
+        "text": "what are the value additions provided by this company?"
+      },
+      {
+        "intent": "Value_Additions",
+        "text": "what are the value additions provided by robosensus?"
+      },
+      {
+        "intent": "Value_Additions",
+        "text": "what are the value additions provided here?"
+      },
+      {
+        "intent": "Value_Additions",
+        "text": "what value additions will offer by this company?"
+      },
+      {
+        "intent": "Value_Additions",
+        "text": "what value additions will offer by this company to client?"
+      },
+      {
+        "intent": "Value_Additions",
+        "text": "what are your value additions to client?"
+      },
+      {
+        "intent": "Value_Additions",
+        "text": "what value additions you are offering to client?"
+      },
+      {
+        "intent": "Ok",
+        "text": "ok"
+      },
+      {
+        "intent": "Ok",
+        "text": "ok thanks"
+      },
+      {
+        "intent": "Ok",
+        "text": "ok thank you"
+      },
+      {
+        "intent": "Affirmation",
+        "text": "yeah"
+      },
+      {
+        "intent": "Affirmation",
+        "text": "yes"
+      },
+      {
+        "intent": "Affirmation",
+        "text": "yes, I need to ask"
+      },
+      {
+        "intent": "Affirmation",
+        "text": "yes, i want to ask"
+      },
+      {
+        "intent": "Affirmation",
+        "text": "yes, I wan to ask few more questions"
+      },
+      {
+        "intent": "Affirmation",
+        "text": "yeah, I want to ask few more questions"
+      },
+      {
+        "intent": "Deny",
+        "text": "no"
+      },
+      {
+        "intent": "Deny",
+        "text": "no thank you bot"
+      },
+      {
+        "intent": "Deny",
+        "text": "no bot"
+      },
+      {
+        "intent": "Deny",
+        "text": "nooo"
+      },
+      {
+        "intent": "Deny",
+        "text": "no, this information is enough"
+      },
+      {
+        "intent": "Deny",
+        "text": "no, thank you"
+      },
+      {
+        "intent": "Deny",
+        "text": "no, thanks"
+      }
+    ],
+    "regex_features": [],
+    "lookup_tables": [],
+    "entity_synonyms": [
+      {
+        "value": "artificial_intelligence",
+        "synonyms": [
+          "ai",
+          "AI",
+          "Ai"
+        ]
+      },
+      {
+        "value": "contact_number",
+        "synonyms": [
+          "phone number",
+          "mobile number",
+          "cell number"
+        ]
+      },
+      {
+        "value": "machine_learning",
+        "synonyms": [
+          "ML",
+          "Ml",
+          "ml"
+        ]
+      },
+      {
+        "value": "research_and_development",
+        "synonyms": [
+          "R&D",
+          "r&d"
+        ]
+      }
+    ]
+  }
+}
