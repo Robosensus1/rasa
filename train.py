@@ -18,12 +18,14 @@ def train(dial, nlu):
     :return: None
     """
     if dial:
-        call(['python', '-m', 'rasa train'])
+        call(['python', '-m', 'rasa train', '-d', 'domain.yml', '-s', 'stories.md', '-o', 'models/dialogue', '--verbose'])
     if nlu:
-        call(['python', '-m', 'rasa train'])
+        call(['python', '-m', 'rasa train', '-c', 'nlu_config.yml', '--data', 'nlu.md', '-o', 'models', '--fixed_model_name', 'nlu', '--project', 'current', '--verbose'])
 
         
 if __name__ == '__main__':
+    train()
+
     train()
 
 
