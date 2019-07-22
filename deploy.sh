@@ -4,9 +4,8 @@ echo "++++++++++ TRAINING MODELS ++++++++++"
 python train.py --nlu --dial
 
 
-echo "++++++++++ EXTRACT CREDENTIALS ++++++++++"
-sh ./generate_credentials.sh > credentials.yml
+
 
 
 echo "++++++++++ STARTING SERVER ++++++++++"
-python -m rasa run -d models/dialogue -u models/current/nlu  --port $PORT --credentials credentials.yml
+python -m rasa run 
